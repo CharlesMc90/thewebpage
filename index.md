@@ -12,7 +12,7 @@ One of my biggest hobbies is streaming games. I enjoy playing Madden and Apex ri
 ## A Few of My Favorite Things
 Here are a couple of pictures that represent my favorite things:
 
-<!DOCTYPE html>
+
 <html>
 <body>
 
@@ -24,7 +24,7 @@ Here are a couple of pictures that represent my favorite things:
 
 *The Legends Themselves!*
 
-<!DOCTYPE html>
+
 <html>
 <body>
 
