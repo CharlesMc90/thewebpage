@@ -1,35 +1,52 @@
 # Welcome to My Personal Webpage
 
 ## About Me
-Hello! My name is [Your Name], and I'm excited to share a little bit about myself with you. I have a strong passion for [mention interests, like "coding," "art," "music," or "science"]. In my free time, I love to [mention any hobbies, like "explore nature," "play guitar," or "experiment with new coding languages"]. 
+Hello! My name is Charles, and I'm excited to share a little bit about myself with you. I love to game, spend time with my family, and watch sports. 
 
-I'm currently learning more about web development, and this page is one of my first steps into the world of creating and hosting content online. I'm constantly curious and always looking for new things to learn and create. 
+I'm currently learning more about web development, and this page is one of my first attempt at it. I'm constantly curious and always looking for new things to learn and create. I'm a Air Force Vet who is orignally from Maryland. I served for 6 years and after starting a family here I decided to stay. I made an attempt at college years ago and I am now taking an honest attempt at while I still have the time to do it. I have 6 daughters all whom have their own piece of my heart.
 
 ## My Hobbies
-One of my biggest hobbies is [describe a favorite hobby, like "photography"]. I enjoy capturing beautiful moments in nature and sharing them with friends. I also enjoy [another hobby or interest] because it allows me to express myself creatively.
+One of my biggest hobbies is streaming games. I enjoy playing Madden and Apex right now. I also enjoy drawing as well because it allows me to express myself creatively.
 
-Feel free to connect with me on [GitHub](https://github.com/) to see some of my projects or on [LinkedIn](https://linkedin.com/) if you'd like to network professionally. I'm always excited to meet new people and learn from others!
 
 ## A Few of My Favorite Things
 Here are a couple of pictures that represent my favorite things:
 
-![Image of Nature](https://via.placeholder.com/150)  
-*A beautiful view of nature that I took during one of my hikes.*
+<!DOCTYPE html>
+<html>
+<body>
 
-![Image of Coding Setup](https://via.placeholder.com/150)  
-*My coding setup - where all the magic happens!*
+<h2>HTML Image</h2>
+<img src="https://media.contentapi.ea.com/content/dam/apex-legends/images/2019/01/apex-featured-image-16x9.jpg.adapt.crop191x100.1200w.jpg" alt="APEX" width="600" height="600">
+
+</body>
+</html>
+
+*The Legends Themselves!*
+
+<!DOCTYPE html>
+<html>
+<body>
+
+<h2>HTML Image</h2>
+<img src="https://media.bleacherreport.com/image/upload/w_800,h_533,c_fill/v1730072860/aerbrmr71xeff8narjcj.jpg" alt="Jayden Daniels" width="800" height="600">
+
+</body>
+</html>
+
+
+*My Favortie Football team The Commanders!*
 
 ## Fun Facts Table
 
-| Favorite Food | Favorite Movie | Favorite Book |
-| ------------- | -------------- | ------------- |
-| Sushi         | Inception      | To Kill a Mockingbird |
-| Pizza         | Interstellar   | The Catcher in the Rye |
-| Tacos         | The Matrix     | 1984                  |
+| Favorite Food | Favorite Movie | Favorite Games Ever |
+| ------------- | -------------- | -------------  |
+| Sushi         | Bad Boys 2     | Gears of War   |
+| Ramen         | Pulp Fiction   | Madden         |
+| Tacos         | Next Friday    | NBA 2k         |
 
 ## Conclusion
-Thank you for visiting my page! I look forward to growing this space with more projects and insights as I continue my learning journey. If you have any tips, resources, or just want to say hi, feel free to reach out to me through my [GitHub profile](https://github.com/).
+Thank you for visiting my page! 
 
 ---
 
-*This page was created using Markdown and hosted on GitHub Pages.*
