@@ -16,7 +16,7 @@ Here are a couple of pictures that represent my favorite things:
 <html>
 <body>
 
-<h2>HTML Image</h2>
+<h2>APEX</h2>
 <img src="https://media.contentapi.ea.com/content/dam/apex-legends/images/2019/01/apex-featured-image-16x9.jpg.adapt.crop191x100.1200w.jpg" alt="APEX" width="600" height="600">
 
 </body>
@@ -28,7 +28,7 @@ Here are a couple of pictures that represent my favorite things:
 <html>
 <body>
 
-<h2>HTML Image</h2>
+<h2>Football</h2>
 <img src="https://media.bleacherreport.com/image/upload/w_800,h_533,c_fill/v1730072860/aerbrmr71xeff8narjcj.jpg" alt="Jayden Daniels" width="800" height="600">
 
 </body>
